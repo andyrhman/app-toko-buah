@@ -1,0 +1,13 @@
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\bin\Debug\SistemPembayaran.exe.config
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\bin\Debug\SistemPembayaran.exe
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\bin\Debug\SistemPembayaran.pdb
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\bin\Debug\SistemPembayaran.xml
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.vbproj.AssemblyReference.cache
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.vbproj.SuggestedBindingRedirects.cache
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.Form1.resources
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.Resources.resources
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.vbproj.GenerateResource.cache
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.vbproj.CoreCompileInputs.cache
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.exe
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.xml
+D:\Kuliah\MAPEL\Pemograman Visual\Latihan\SistemPembayaran\SistemPembayaran\obj\Debug\SistemPembayaran.pdb
