@@ -14,5 +14,5 @@ Ketentuan:
 ![alt text](https://i.imgur.com/RfKrZgP.png "Gambar Aplikasi")
 
 ### Video Penjelasan
-<a href="https://www.youtube.com/embed/hMbvDHy547Y" title="YouTube video player" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://www.youtube.com/embed/hMbvDHy547Y" title="YouTube video player" target="_blank"><img src="https://i.imgur.com/RfKrZgP.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
